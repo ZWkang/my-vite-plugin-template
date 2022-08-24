@@ -1,6 +1,5 @@
-import { test, assert } from "vitest"
-import { name } from "../src"
+import { test, assert } from "vitest";
 
 test("simple", () => {
-  assert.equal(name, "pkg-name")
-})
+  assert.equal(1, 1);
+});
