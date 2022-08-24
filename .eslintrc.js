@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ["alloy", "alloy/typescript"],
+  extends: ['alloy', 'alloy/typescript'],
   env: {
     // Your environments (which contains several predefined global variables)
     //

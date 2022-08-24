@@ -1,5 +1,5 @@
-import { test, assert } from "vitest";
+import { test, assert } from 'vitest';
 
-test("simple", () => {
+test('simple', () => {
   assert.equal(1, 1);
 });
